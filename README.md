@@ -61,10 +61,7 @@ Bubble chart depicting the number of rounds across the participating drivers in 
 Stacked Bar chart describing the race status for grand prix for the participating drivers in F1
 
 
-## Contributors 
 
-* [Chinmay Wyawahare](https://github.com/gandalf1819)
-* [Vineet Viswakumar](https://github.com/vineet247)
 
 ## References
 
